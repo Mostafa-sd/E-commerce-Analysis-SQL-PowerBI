@@ -49,7 +49,7 @@ An interactive Power BI dashboard was built to monitor these KPIs dynamically.
 
 *(Make sure to upload a file named `dashboard_preview.png` in the main folder to see the image below)*
 
-![Power BI Dashboard Preview](Ecommerce-Funnel-Analysis/dashboard_preview.png)
+![Power BI Dashboard Preview](dashboard_preview.png)
 
 ---
 *Created as part of a Data Analytics & BI Internship Portfolio.*
