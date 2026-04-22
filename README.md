@@ -17,11 +17,11 @@ By leveraging **Google BigQuery** for complex data extraction and **Power BI** f
 ##  Repository Structure
 The SQL queries are modularized into 5 distinct files, each focusing on a specific business metric:
 
-1. [`01_funnel_stages_count.sql`](SQL_Queries/01_funnel_stages_count.sql): Extracts the raw unique user counts for each stage (View, Cart, Checkout, Payment, Purchase).
-2. [`02_funnel_conversion_rates.sql`](SQL_Queries/02_funnel_conversion_rates.sql): Calculates step-by-step drop-off percentages and the overall conversion rate.
-3. [`03_traffic_source_performance.sql`](SQL_Queries/03_traffic_source_performance.sql): Evaluates marketing channels based on user acquisition and purchase conversion quality.
-4. [`04_time_to_conversion.sql`](SQL_Queries/04_time_to_conversion.sql): Analyzes the average time users take to navigate from landing to final purchase.
-5. [`05_revenue_and_aov_analysis.sql`](SQL_Queries/05_revenue_and_aov_analysis.sql): Connects user behavior to financial metrics like Total Revenue and Average Order Value (AOV).
+1. [`01_funnel_stages_count.sql`](Ecommerce-Funnel-Analysis/SQL_Queries/01_funnel_stages_count.sql): Extracts raw unique user counts.
+2. [`02_funnel_conversion_rates.sql`](Ecommerce-Funnel-Analysis/SQL_Queries/02_funnel_conversion_rates.sql): Calculates step-by-step drop-off percentages.
+3. [`03_traffic_source_performance.sql`](Ecommerce-Funnel-Analysis/SQL_Queries/03_traffic_source_performance.sql): Evaluates marketing channels.
+4. [`04_time_to_conversion.sql`](Ecommerce-Funnel-Analysis/SQL_Queries/04_time_to_conversion.sql): Analyzes average time to purchase.
+5. [`05_revenue_and_aov_analysis.sql`](Ecommerce-Funnel-Analysis/SQL_Queries/05_revenue_and_aov_analysis.sql): Connects behavior to financial KPIs.
 
 ---
 
