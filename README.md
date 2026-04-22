@@ -27,7 +27,7 @@ The SQL queries are modularized into 5 distinct files, each focusing on a specif
 ##  Key Business Insights
 
 ### 1. The Funnel Bottleneck
-- The overall conversion rate stands at **17%**.
+- The overall conversion rate stands at **16.3%**.
 - **Major Drop-off:** The most significant loss of potential customers occurs between the *Product View* (4.29K users) and *Add to Cart* (1.34K users) stages. This indicates a strong need for Product Page Optimization or A/B testing on call-to-action buttons.
 
 ### 2. Traffic Source Efficiency
